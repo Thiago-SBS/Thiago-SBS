@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨‍💻 Thiago Silva
 
-<!--
-**Thiago-SBS/Thiago-SBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Programação`**
 
-Here are some ideas to get you started:
+Me chamo Thiago Silva, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente estou estudando programação para poder trabalhar na área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguaens e Tecnologias
+
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
+
+<br/>
+
+### 📊 Estatisticas
+
+<img 
+    alt="gitHub Stats"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=midnight-purple&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=midnight-purple&custom_title=Tecnologias"
+    >
