@@ -13,10 +13,6 @@ Me chamo Thiago Silva, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente
 
 <br/>
 
-### 📊 Estatisticas
+### 📊 Estatísticas
 
-<img 
-    alt="gitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=midnight-purple&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=midnight-purple&custom_title=Tecnologias"
-    >
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=midnight-purple&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=midnight-purple&custom_title=Tecnologias">
