@@ -10,6 +10,7 @@ Me chamo Thiago Silva, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente
 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/>
 
