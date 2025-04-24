@@ -2,7 +2,9 @@
 
 **`Estudante de Programação`**
 
-Me chamo Thiago Silva, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente estou estudando programação para trabalhar na área.
+Me chamo Thiago Silva, tenho 23 anos, sou natural do Rio de Janeiro, estou em transição de carreira e com muita vontade de aprender e crescer na área de tecnologia.
+
+Atualmente estou focado em desenvolver minhas habilidades em programação.
 
 <br/>
 
