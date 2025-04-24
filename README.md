@@ -1,4 +1,4 @@
-# 👨‍💻 Thiago Silva
+https://media4.giphy.com/media/hqmfAhYhZDGFOyzAG6/giphy.gif?cid=6c09b952rj9qxcmkk5lral6tvuns2kpjmsyiok58t76a8dtd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s# 👨‍💻 Thiago Silva
 
 **`Estudante de Programação`**
 
@@ -8,7 +8,7 @@ Atualmente estou focado em desenvolver minhas habilidades em programação.
 
 <br/>
 
-## 🤖 Linguagens e Tecnologias
+<img width="30px" height"30px" src="https://media4.giphy.com/media/hqmfAhYhZDGFOyzAG6/giphy.gif?cid=6c09b952rj9qxcmkk5lral6tvuns2kpjmsyiok58t76a8dtd&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" /> ## Linguagens e Tecnologias
 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
