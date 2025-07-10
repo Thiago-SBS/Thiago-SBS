@@ -1,14 +1,13 @@
 # 👨‍💻 Thiago Silva
 
-**`Estudante de Programação`**
+**`programming student`**
 
-Me chamo Thiago Silva, tenho 23 anos, sou natural do Rio de Janeiro, estou em transição de carreira e com muita vontade de aprender e crescer na área de tecnologia.
-
-Atualmente estou focado em desenvolver minhas habilidades em programação.
+<p><strong>Hello! My name is Thiago Silva, I’m 23 years old and originally from Rio de Janeiro.</strong></p>
+<p>I’m currently transitioning into a tech career, highly motivated to learn and grow in the field. I’ve been focusing on developing my programming skills and constantly seeking new knowledge and challenges to support my professional growth.</p>
 
 <br/>
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Technologies
 
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
@@ -16,6 +15,6 @@ Atualmente estou focado em desenvolver minhas habilidades em programação.
 
 <br/>
 
-## 📊 Estatísticas
+## 📊 Statistics
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=tokyonight&locale=pt-br">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=tokyonight&custom_title=Tecnologias">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=thiago-sbs&show_icons=true&theme=midnight-purple">&ensp;<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sbs&layout=compact&theme=midnight-purple">
