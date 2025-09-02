@@ -2,7 +2,7 @@
 
 **`programming student`**
 
-<p><strong>Hello! My name is Thiago Silva, I’m 23 years old and originally from Rio de Janeiro.</strong></p>
+<p><strong>Hello! My name is Thiago Silva, I’m 24 years old and originally from Rio de Janeiro.</strong></p>
 <p>I’m currently transitioning into a tech career, highly motivated to learn and grow in the field. I’ve been focusing on developing my programming skills and constantly seeking new knowledge and challenges to support my professional growth.</p>
 
 <br/>
